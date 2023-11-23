@@ -1,0 +1,10 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/fd68ac2f-2a12-48cd-9883-b03bf143990d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/IQLDocumentApi",
+    "appService.deploySubpath": ".",
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectLanguageModel": 2
+}
